@@ -1,0 +1,13 @@
+section {
+    width: 800px;
+    height: 800px;
+    border: 1px solid red;
+    display: grid;
+    grid-template-columns: 50% auto auto auto;
+    grid-template-rows: 75% auto;
+}
+
+article {
+    margin: 10px;
+    background-color: blue;
+}

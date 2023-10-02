@@ -1,0 +1,29 @@
+.first-section {
+    position: relative;
+    background-color: crimson;
+    width: 95%;
+    height: 500px;
+}
+
+.second-section {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: blue;
+    width: 90%;
+    height: 75%;
+    transform: translate(-50%, -50%);
+}
+
+.third-section {
+    border: 20px solid lightblue;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: green;
+    width: 90%;
+    height: 75%;
+    transform: translate(-50%, -50%);
+}
